@@ -1011,7 +1011,7 @@ Plugins[] = Intl
 Plugins[] = Marketplace
 Plugins[] = ProfessionalServices
 Plugins[] = UserId
-Plugins[] = CustomPiwikJs
+Plugins[] = CustomTrackerJs
 Plugins[] = Tour
 
 [PluginsInstalled]
